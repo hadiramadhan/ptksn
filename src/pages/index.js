@@ -49,7 +49,7 @@ export default function Home() {
                   hover:dark:border-light md:p-2 md:px-2 md:text-base
                   '
                   download={true}
-                  >Tanya Kami <LinkArrow className={"absoloute w-2 ml-2 pb-2 top-0"}/>
+                  >Tanya Kami <LinkArrow className={"w-3 ml-2"}/>
                   </Link>
                   <Link href="mailto:Aurasyifaalmira@gmail.com" target={"_blank"}
                   className='ml-4 text-md font-medium capitalize text-dark underline dark:text-light md:text-base'
