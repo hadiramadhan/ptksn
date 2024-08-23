@@ -98,7 +98,10 @@ const Project = ({title, type, img, link,}) => {
             <div className='w-full mt-2 flex items-center justify-between'>
                 <Link href={github} target='_blank' className='w-8 md:w-6'>
                     {" "}
-                    <GithubIcon/>{" "}</Link>
+                    {/* <GithubIcon/> */}
+                    {" "}
+                    
+                    </Link>
             <Link
              href={link} 
              target='_blank'
